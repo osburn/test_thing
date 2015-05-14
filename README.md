@@ -22,7 +22,7 @@ Add stuff here
 
 ## Additional information
 
-* Something ~~here~~
+* Something ~~not really here~~
 * Something there
   * Line 1
   * Line 2
