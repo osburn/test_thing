@@ -33,6 +33,8 @@ Add stuff here
   * `Line 3 with a nice box`
 * Something `over` there
 
+A box of stuff here::
+
  Some stuff;
  more stuff;
  a nice box;
