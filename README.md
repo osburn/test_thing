@@ -26,11 +26,6 @@ Add stuff here
 * Something there
 * Something over there
 
-
-+ more
-+ more yet
-+ more more more
-
 ----------------
 ----------------
 
