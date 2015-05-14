@@ -33,9 +33,9 @@ Add stuff here
   * `Line 3 with a nice box`
 * Something `over` there
 
- Some stuff
- more stuff
- a nice box
+ Some stuff;
+ more stuff;
+ a nice box;
 
 ----------------
 ----------------
