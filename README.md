@@ -20,10 +20,6 @@ Add stuff here
 
 ### other thing
 
-#. item here
-#. item there
-#. item everywhere
-
 ## Additional information
 
 * Something here
@@ -35,9 +31,9 @@ Add stuff here
 
 A box of stuff here::
 
- Some stuff;
- more stuff;
- a nice box;
+  Some stuff;
+  more stuff;
+  a nice box;
 
 ----------------
 ----------------
