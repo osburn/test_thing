@@ -20,6 +20,10 @@ Add stuff here
 
 ### other thing
 
+#. item here
+#. item there
+#. item everywhere
+
 ## Additional information
 
 * Something here
@@ -28,6 +32,10 @@ Add stuff here
   * Line 2
   * `Line 3 with a nice box`
 * Something `over` there
+
+ Some stuff
+ more stuff
+ a nice box
 
 ----------------
 ----------------
