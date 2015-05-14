@@ -25,9 +25,9 @@ ADD STUFF HERE
 * Something over there
 
 ----------------
+----------------
 
 ```
-BEGIN HERE
-OF SOMETHING
-GREAT
+Begin here of something
+GRRRRREAT
 ```
